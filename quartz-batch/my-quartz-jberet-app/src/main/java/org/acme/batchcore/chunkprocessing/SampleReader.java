@@ -1,4 +1,4 @@
-package org.acme.batchcore;
+package org.acme.batchcore.chunkprocessing;
 
 import jakarta.batch.api.chunk.ItemReader;
 import jakarta.enterprise.context.Dependent;
